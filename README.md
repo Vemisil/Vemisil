@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Vemisil
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning English
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: My name is Ve.. Mi.. Sil..
+- 👋 Oi, eu sou @Vemisil
+- 👀 Estou interessado em engenharia de software
+- 🌱 Estou aprendendo inglês
+- 😄 Pronomes: ele/dele
+- ⚡ Fato divertido: meu nome é Ve.. Mi.. Sil..
 
 <!---
 Vemisil/Vemisil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
